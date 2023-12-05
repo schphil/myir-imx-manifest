@@ -23,7 +23,7 @@
   <project name="meta-freescale" path="sources/meta-freescale" remote="community" revision="41d4f625c6db7a778f0f9a735c2cb48e023bc49b"/>
   <project name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty" remote="community" revision="b85d08a55cb833bfc4e8b5034ff804286c67620e"/>
   <project name="meta-freescale-distro" path="sources/meta-freescale-distro" remote="community" revision="11be3f01962df8436c5c7b0d61cd3dbd1b872905"/>
-  <project name="meta-myir-imx" path="sources/meta-myir" remote="MYiR-DEV" revision="e0ee35f2519b4e0ba1d7a4ca54c836ba5820b3e1" upstream="i.MX6UL-5.10-gatesgarth">
+  <project name="meta-myir-imx" path="sources/meta-myir" remote="MYiR-DEV" revision="c78df0dafb7ed5d4845229743b29258e1da72ff1" upstream="i.MX6UL-5.10-gatesgarth">
     <linkfile src="tools/myir-setup-release.sh" dest="myir-setup-release.sh"/>
     <linkfile src="README" dest="README-IMXBSP"/>
   </project>

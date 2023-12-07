@@ -28,6 +28,7 @@
     <linkfile src="README" dest="README-IMXBSP"/>
   </project>
   <project name="meta-openembedded" path="sources/meta-openembedded" remote="oe" revision="ac4ccd2fbbb599d75ca4051911fcbaca39dbe6d7"/>
+  <project name="meta-openembedded" path="sources/openembedded-core" remote="oe" revision="9cce475ffc4bd71977d8e0a31c1a4df7a2f30ef7"/>
   <project name="meta-python2" path="sources/meta-python2" remote="python2" revision="c43c29e57f16af4e77441b201855321fbd546661"/>
   <project name="meta-qt5" path="sources/meta-qt5" remote="QT5" revision="8d5672cc6ca327576a814d35dfb5d59ab24043cb"/>
   <project name="meta-rust" path="sources/meta-rust" remote="rust" revision="53bfa324891966a2daf5d36dc13d4a43725aebed"/>

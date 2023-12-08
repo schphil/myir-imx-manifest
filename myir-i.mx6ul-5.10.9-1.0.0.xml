@@ -23,12 +23,11 @@
   <project name="meta-freescale" path="sources/meta-freescale" remote="community" revision="c0c3b6108837ff232831b67c9ca87fb5b891182a"/>
   <project name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty" remote="community" revision="b85d08a55cb833bfc4e8b5034ff804286c67620e"/>
   <project name="meta-freescale-distro" path="sources/meta-freescale-distro" remote="community" revision="11be3f01962df8436c5c7b0d61cd3dbd1b872905"/>
-  <project name="meta-myir-imx" path="sources/meta-myir" remote="MYiR-DEV" revision="2da198dfc4f1f0e3ec56d0bc6a28e229412a4eec" upstream="i.MX6UL-5.10-gatesgarth">
+  <project name="meta-myir-imx" path="sources/meta-myir" remote="MYiR-DEV" revision="d8c1341c5d55fdf88c01c0d1a67af6d783524291" upstream="i.MX6UL-5.10-gatesgarth">
     <linkfile src="tools/myir-setup-release.sh" dest="myir-setup-release.sh"/>
     <linkfile src="README" dest="README-IMXBSP"/>
   </project>
   <project name="meta-openembedded" path="sources/meta-openembedded" remote="oe" revision="ac4ccd2fbbb599d75ca4051911fcbaca39dbe6d7"/>
-  <project name="openembedded-core" path="sources/openembedded-core" remote="oe" revision="9cce475ffc4bd71977d8e0a31c1a4df7a2f30ef7"/>
   <project name="meta-python2" path="sources/meta-python2" remote="python2" revision="c43c29e57f16af4e77441b201855321fbd546661"/>
   <project name="meta-qt5" path="sources/meta-qt5" remote="QT5" revision="8d5672cc6ca327576a814d35dfb5d59ab24043cb"/>
   <project name="meta-rust" path="sources/meta-rust" remote="rust" revision="53bfa324891966a2daf5d36dc13d4a43725aebed"/>

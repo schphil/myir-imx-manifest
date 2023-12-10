@@ -11,6 +11,7 @@
   <remote name="python2" fetch="https://git.openembedded.org"/>
   <remote name="rust" fetch="https://github.com/meta-rust"/>
   <remote name="yocto" fetch="https://git.yoctoproject.org/git"/>
+  <remote name="gcouva" fetch="https://github.com/schphil"/>
   
   <default sync-j="2"/>
   
@@ -33,4 +34,6 @@
   <project name="meta-rust" path="sources/meta-rust" remote="rust" revision="53bfa324891966a2daf5d36dc13d4a43725aebed"/>
   <project name="meta-timesys" path="sources/meta-timesys" remote="Timesys" revision="00f81fbdf7fba2a09ff83d14fc3b040e9ae63b42"/>
   <project name="poky" path="sources/poky" remote="yocto" revision="943ef2fad8428f002850e3655a3312e13d0dcb2c"/>
+  <project name="meta-v2x" path="sources/meta-v2x" remote="gcouva" revision="gatesgarth"/>  
+
 </manifest>
